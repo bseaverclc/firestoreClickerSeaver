@@ -21,6 +21,7 @@
 		4EF1A56727F12F3900CD646E /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = 4EF1A56627F12F3900CD646E /* FirebaseFirestore */; };
 		4EF1A56927F12F3900CD646E /* FirebaseFirestoreSwift-Beta in Frameworks */ = {isa = PBXBuildFile; productRef = 4EF1A56827F12F3900CD646E /* FirebaseFirestoreSwift-Beta */; };
 		4EF1A56B27F1F46300CD646E /* ViewControllerHighScores.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EF1A56A27F1F46300CD646E /* ViewControllerHighScores.swift */; };
+		4EF1A56D27F202F800CD646E /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4EF1A56C27F202F800CD646E /* Player.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +36,7 @@
 		4EF1A55727F12A1000CD646E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4EF1A55D27F12E2900CD646E /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		4EF1A56A27F1F46300CD646E /* ViewControllerHighScores.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerHighScores.swift; sourceTree = "<group>"; };
+		4EF1A56C27F202F800CD646E /* Player.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +78,7 @@
 				4EF1A54827F12A0C00CD646E /* SceneDelegate.swift */,
 				4EF1A54A27F12A0C00CD646E /* ViewController.swift */,
 				4EF1A54C27F12A0C00CD646E /* Main.storyboard */,
+				4EF1A56C27F202F800CD646E /* Player.swift */,
 				4EF1A56A27F1F46300CD646E /* ViewControllerHighScores.swift */,
 				4EF1A55227F12A1000CD646E /* Assets.xcassets */,
 				4EF1A55427F12A1000CD646E /* LaunchScreen.storyboard */,
@@ -172,6 +175,7 @@
 				4EF1A56B27F1F46300CD646E /* ViewControllerHighScores.swift in Sources */,
 				4EF1A55127F12A0D00CD646E /* firestoreClickerSeaver.xcdatamodeld in Sources */,
 				4EF1A54727F12A0C00CD646E /* AppDelegate.swift in Sources */,
+				4EF1A56D27F202F800CD646E /* Player.swift in Sources */,
 				4EF1A54927F12A0C00CD646E /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
